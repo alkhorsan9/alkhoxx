@@ -1,0 +1,70 @@
+<site version="3.0"><css/><components/><page id="p70734" pageindex="0" name="index" pp="0" cp="0"><body><Component type="3" id="image1" zorder="0" filename="image114015" left="16" top="73" width="1643" height="263" originwidth="1583" originheight="258" src="C:\Users\msi\Desktop\111111111111111111\images\calender00000.png" previewfile="C:\Users\msi\Desktop\111111111111111111\images\calender00000.png"/><Component type="3" id="image2" zorder="1" filename="image139734" left="1520" top="27" width="120" height="44" originwidth="1000" originheight="365" src="C:\Users\msi\Desktop\111111111111111111\images\SehaLogo.png" previewfile="C:\Users\msi\Desktop\111111111111111111\images\SehaLogo.png"/><Component type="3" id="image3" zorder="2" filename="image167593" left="1379" top="1082" width="111" height="101" originwidth="110" originheight="100" src="C:\Users\msi\Desktop\111111111111111111\images\moh.png" previewfile="C:\Users\msi\Desktop\111111111111111111\images\moh.png"/><Component type="3" id="image4" zorder="3" filename="image195015" left="1277" top="1076" width="110" height="110" originwidth="100" originheight="100" src="C:\Users\msi\Desktop\111111111111111111\images\LeanFooter.png" previewfile="C:\Users\msi\Desktop\111111111111111111\images\LeanFooter.png"/><Component type="5" id="nav1" zorder="4" filename="nav2912312" fontname="Akhbar MT" fontsize="14" fontcolor="16777215" fontstyle="1" activecolor="32768" navspace="5" navstyle="0" hormargin="3" vermargin="0" textalign="1" navwidth="180" navheight="28" normalimage="C:\Users\msi\Documents\Web Page Maker\Navbar\rectb05in.gif" mouseoverimage="C:\Users\msi\Documents\Web Page Maker\Navbar\rectb05over.gif" mouseoversound="" navtext0="تسجيل حساب جديد" navurl0="https://www.seha.sa/ManagedAccounts/CreateMedicalAccount" navtarget0="" navstate0="0" navtext1="تسجيل دخول" navurl1="https://www.seha.sa/Account/Login" navtarget1="" navstate1="0" navtext2="الخدمات" navurl2="https://www.seha.sa/Home/eclaims" navtarget2="" navstate2="0" navtext3="الرئيسية" navurl3="https://www.seha.sa/" navtarget3="" navstate3="0" navcount="4" width="740" height="28" preview="C:\Users\msi\AppData\Local\Temp\Web Page Maker\docO72VV\Nav4G2DQ" left="29" top="27" fp="0"/><Component type="4" id="shape1" zorder="5" filename="shape17471359" width="1640" height="381" bgcolor="#C0C0C0" previewfile="C:\Users\msi\AppData\Local\Temp\Web Page Maker\docO72VV\shape2U5HJ.gif" left="22" top="631" fp="0"/><Component type="2" id="text1" zorder="6" filename="text17705328" width="970" height="177" html="" left="373" top="432" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#339966" face="Akhbar MT" style="font-size:24px;"&gt;الاستعلام عن الإجازات المرضية&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Akhbar MT" style="font-size:32px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Akhbar MT" style="font-size:21px;"&gt;خدمة الاستعلام عن الـإجازات المرضية تتيح لك الاستعلام عن حالة طلبك للإجازة وتمكنك من تصدير وطباعة نسخة لها&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#339966" face="Akhbar MT" class="ws18"&gt;الاستعلام عن الإجازات المرضية&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#339966" face="Akhbar MT" class="ws24"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Akhbar MT" class="ws16"&gt;خدمة الاستعلام عن الـإجازات المرضية تتيح لك الاستعلام عن حالة طلبك للإجازة وتمكنك من تصدير وطباعة نسخة لها&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp4AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBglBa2hiYXIgTVQEU2l6ZQIYBUNvbG9yBDOZZgAAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYJQWtoYmFyIE1UBFNpemUCEAABCVN0eWxl
+TmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBglBa2hiYXIgTVQEU2l6ZQISBUNv
+bG9yBDOZZgAAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxp
+Z24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFD
+ZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50
+BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09w
+dGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1
+cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADUgMSAxIDAgMCAwDQrH4cfT
+ytrhx+Mg2uQgx+HFzMfSx8ogx+Hj0dbtyQ0KMyAxIDAgMCAwIDANCg0KNCAxIDEgMCAwIDANCs7P
+48kgx+HH08ra4cfjINrkIMfh3MXMx9LHyiDH4ePR1u3JIMrK7c0g4d8gx+HH08ra4cfjINrkIM3H
+4ckg2OHI3yDh4cXMx9LJIObK49/k3yDj5CDK1c/t0SDm2MjH2skg5NPOySDh5ccNCg==
+</rvf></Component><Component type="2" id="text2" zorder="8" filename="text19605875" width="293" height="133" html="" left="977" top="1107" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Akhbar MT" style="font-size:16px;"&gt;منصة صحة معتمدة من قبل وزارة الصحة © 2018&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Akhbar MT" style="font-size:21px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font face="Akhbar MT" style="font-size:19px;"&gt; &lt;/font&gt;&lt;font face="Akhbar MT" style="font-size:16px;"&gt; الشروط والأحكام | دليل الاستخدام&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Akhbar MT" class="ws12"&gt;منصة صحة معتمدة من قبل وزارة الصحة © 2018&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Akhbar MT" class="ws16"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font face="Akhbar MT" class="ws14"&gt; &lt;/font&gt;&lt;font face="Akhbar MT" class="ws12"&gt; الشروط والأحكام | دليل الاستخدام&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpiAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBglBa2hiYXIgTVQEU2l6ZQIQAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhTdGFuZGFyZAgIRm9udE5hbWUGCUFraGJhciBNVARTaXplAg4AAQlTdHlsZU5hbWUGC05vcm1h
+bCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYJQWtoYmFyIE1UBFNpemUCDAAALTkgMiAwIDAgMiAw
+IDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFy
+dnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAg
+MiAwIDQNCnJ2cw0KAgAAAA4ANSAxIDEgMCAwIDANCuPk1ckg1c3JIOPayuPPySDj5CDeyOEg5tLH
+0ckgx+HVzckgqSAyMDE4DQozIDEgMSAwIDAgMA0KICAgICAgICAgICAgICAgICANCjQgMSAtMSAx
+IDAgMA0KIA0KNSAxIC0xIDEgMCAwDQogx+HU0ebYIObH4cPN38fjIHwgz+Ht4SDH4cfTys7Px+Mg
+ICAgIA0K
+</rvf></Component><Component type="2" id="text3" zorder="7" filename="text20653203" width="222" height="55" html="" left="773" top="919" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" linkurl="download://C:\Users\msi\Desktop\E-Claims.jpg" bgcolor="#008000" borderstyle="0" bordercolor="#808080" borderwidth="3" savetopic="1" alt="استعلام" selected="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Akhbar MT" style="font-size:35px;"&gt;استعلام&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Akhbar MT" class="ws26"&gt;استعلام&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpVAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBglBa2hiYXIgTVQEU2l6ZQIaBUNvbG9yBwdjbFdoaXRlAAEJU3R5bGVO
+YW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGCUFraGJhciBNVARTaXplAhoFQ29s
+b3IHB2NsV2hpdGUJQmFja0NvbG9yBwdjbEJsYWNrAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAA
+DgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENl
+bnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUG
+C1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90
+ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoC
+AAAADgAzIDEgMSAwIDAgMA0Kx9PK2uHH4w0K
+</rvf></Component></body></page></site>
